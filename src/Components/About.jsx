@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a highly motivated AI/ML student, I have developed a strong foundation in programming languages like Python, C, and C++. I have a keen interest in exploring the latest developments in AI and applying them to solve real-world problems.";
 
 const About = () => {
   return (
