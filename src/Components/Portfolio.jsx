@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/des.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desk with pen, notes, books and laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Snake Game 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Its a popular snake game designed using python with great user experience.",
+    url: "https://github.com/devyanic11/Snake-Game",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Instagram Following Bot",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a very popular instagram bot to follow multiple users in single time by just a single click.",
+    url: "https://github.com/devyanic11/Instagram-Following-Bot",
   },
   {
-    title: "My Resume Site",
+    title: "Automated Email Sender",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This program is designed to automatically send a single email to a long list of people very quickly and efficiently.",
+    url: "https://github.com/devyanic11/Automated-Email-Sender",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Password Manager",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It helps you to manage your passwords all in one location. We make sure that your passwords and secure and accessible only to you.",
+    url: "https://github.com/devyanic11/Password-Manager",
   },
 ];
 
